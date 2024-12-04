@@ -12,6 +12,8 @@
   "dependencies": {
     "cloudflare": "^3.5.0",
     "mimetext": "^3.0.24",
+    "os": "^0.1.2",
+    "path": "^0.12.7",
     "postal-mime": "^1.1.0"
   }
 }
